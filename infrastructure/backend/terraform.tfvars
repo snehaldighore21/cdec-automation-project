@@ -35,5 +35,5 @@ additional_tags = {
 # ALB Ingress — AWS Load Balancer Controller + API ingress
 enable_alb_ingress  = true
 ingress_host        = "api.thecloudnine.in"
-acm_certificate_arn = "arn:aws:acm:us-east-1:329504364887:certificate/6da20280-ad06-43ed-93ee-2e5d0fd98fd0"
+acm_certificate_arn = "arn:aws:acm:ap-southeast-2:329504364887:certificate/9d307b7a-fd48-41b8-8204-5c2cc508034b"
 alb_name            = "cdec-alpha-alb"
