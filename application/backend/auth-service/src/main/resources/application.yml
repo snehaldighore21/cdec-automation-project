@@ -6,7 +6,7 @@ spring:
     name: auth-service
   data:
     mongodb:
-      uri: ${MONGO_URI:mongodb+srv://cloudblitz:redhat123@cloudblitz-cluster.0xef32k.mongodb.net/cb_auth?retryWrites=true&w=majority&appName=cdec-dev}
+      uri: ${MONGO_URI:mongodb+srv://snehaldighore21_db_user:Shubham12345@cloudblitz-cluster.veyytru.mongodb.net/cb_auth?retryWrites=true&w=majority&appName=cloudblitz-cluster}
   security:
     user:
       name: admin
