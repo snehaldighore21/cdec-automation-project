@@ -1,6 +1,6 @@
 # Copy to terraform.tfvars. Do not commit terraform.tfvars.
 
-aws_region   = "eu-west-1"
+aws_region   = "ap-southeast-2"
 environment  = "dev"
 project_name = "cdec-alpha"
 cluster_name = "cdec-eks-dev"
