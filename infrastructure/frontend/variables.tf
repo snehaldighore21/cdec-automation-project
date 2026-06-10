@@ -1,7 +1,7 @@
 variable "aws_region" {
   description = "AWS region for S3 and regional resources. ACM for CloudFront must be in us-east-1."
   type        = string
-  default     = "eu-west-1"
+  default     = "ap-southeast-2"
 }
 
 variable "environment" {

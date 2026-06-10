@@ -1,11 +1,11 @@
 # Copy to terraform.tfvars. Do not commit terraform.tfvars.
 
-aws_region  = "eu-west-1"
+aws_region  = "ap-southeast-2"
 environment = "dev"
 application = "cdec-alpha"
 
-acm_certificate_arn = "arn:aws:acm:us-east-1:933516006319:certificate/fd6dd327-9040-4390-b756-672c18a25ff3"
+acm_certificate_arn = "arn:aws:acm:ap-southeast-2:329504364887:certificate/9d307b7a-fd48-41b8-8204-5c2cc508034b"
 
 # Use a domain you own — example.com is reserved by AWS and will fail
-dns_zone_name   = "thecloudnine.in"
-dns_record_name = "www.thecloudnine.in"
+dns_zone_name   = "awsproject.shop"
+dns_record_name = "www.awsproject.shop"
