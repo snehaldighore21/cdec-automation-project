@@ -1,4 +1,4 @@
-# CloudBlitz — Cloud-Native Course Enrollment Platform
+# CourseFlow — Cloud-Native Course Enrollment Platform
 
 Course enrollment platform built as a React SPA with three Spring Boot microservices on AWS.
 
